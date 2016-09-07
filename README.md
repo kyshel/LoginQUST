@@ -1,7 +1,6 @@
 # LoginQUST
-LoginQUST give you geek ways to login QUST(Qing Dao University of Science&Technology) campus net.
-
-LoginQUST 不同平台下登录 青岛科技大学校园网
+LoginQUST - 多种姿势登录 QUST校园网，不依赖浏览器，不依赖操作系统，有线、无线通用
+>LoginQUST give you geek ways to login QUST(Qing Dao University of Science&Technology) campus net.
 
 ## Usage
 
