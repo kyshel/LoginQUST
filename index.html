@@ -1,0 +1,46 @@
+<html>
+<head>
+	<script src="js/showdown.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.4.0/github-markdown.min.css">
+	<style type="text/css">
+		#show{
+			width: 700px;
+			margin: 40px auto;
+		}
+	</style>
+
+</head>
+
+<body>
+<div id ="show" class="markdown-body"></div>
+
+
+
+
+<script type="text/javascript">
+function readTextFile(file)
+{
+	var rawFile = new XMLHttpRequest();
+	rawFile.open("GET", file, false);
+	rawFile.onreadystatechange = function ()
+	{
+		if(rawFile.readyState === 4)
+		{
+			if(rawFile.status === 200 || rawFile.status == 0)
+			{
+				var allText = rawFile.responseText;
+				//below is showdown work
+				var converter = new showdown.Converter(),
+				text      = allText,
+				html      = converter.makeHtml(text);
+				document.getElementById('show').innerHTML=html;
+			}
+		}
+	}
+	rawFile.send(null);
+}
+readTextFile("itc.md");
+</script>
+
+</body>
+</html>
