@@ -16,7 +16,7 @@ LoginQUST - 多种姿势登录 QUST校园网，不依赖浏览器，不依赖操
 ####Windows
 
 1.更改LoginQUST.c中的 用户名和密码  
-2.编译生成 LoginQUST.exe  (可使用VC6.0)  
+2.编译生成 LoginQUST.exe  (利用VS2015)  
 3.打开LoginQUST.exe ，自动登录  
 
 ####Android
