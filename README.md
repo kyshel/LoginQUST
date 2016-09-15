@@ -26,7 +26,7 @@ LoginQUST - 多种姿势登录 QUST校园网，不依赖浏览器，不依赖操
 # Tips
 - 登录后访问[172.16.10.3](http://172.16.10.3)查询剩余流量  
 - 一个账号最多登录两个终端
-- [登录原理](info.md)
+- [登录原理](index.html?page=info)
 
 
 # License
