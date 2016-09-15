@@ -1,4 +1,4 @@
-# LoginQUST
+# [LoginQUST](https://github.com/kyshel/LoginQUST)
 LoginQUST - 多种姿势登录 QUST校园网，不依赖浏览器，不依赖操作系统，有线、无线通用
 >LoginQUST give you geek ways to login QUST(Qing Dao University of Science&Technology) campus net.
 
