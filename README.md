@@ -23,12 +23,12 @@ LoginQUST - 多种姿势登录 QUST校园网，不依赖浏览器，不依赖操
 1.下载安装 [apk](http://nic.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=967955788&wbfileid=253215)  
 2.打开app，输入用户名密码登录
 
-# Tips
+## Tips
 - 登录后访问[172.16.10.3](http://172.16.10.3)查询剩余流量  
 - 一个账号最多登录两个终端
 - [登录原理](http://kyshel.github.io/LoginQUST/index.html?page=info)
 
 
-# License
+## License
 Made with ❤ by [kyshel](http://github.com/kyshel)  
 MIT License
