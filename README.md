@@ -20,11 +20,12 @@ LoginQUST - 多种姿势登录 QUST校园网，不依赖浏览器，不依赖操
 3.打开LoginQUST.exe ，自动登录  
 
 ####Android
-1.下载安装 LoginQUST.apk  
-2.打开 LoginQUST ，输入用户名密码登录
+1.下载安装 [apk](http://nic.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=967955788&wbfileid=253215)
+2.打开 app ，输入用户名密码登录
 
 # Tips
-- 查剩余流量，登录后访问 [172.16.10.3](172.16.10.3)
+- 登录后访问 [172.16.10.3](172.16.10.3) 查询剩余流量
+- 一个账号最多登录两个终端
 
 # Credits
 Author: Kyshel  
