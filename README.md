@@ -27,6 +27,7 @@ LoginQUST - 多种姿势登录 QUST校园网，不依赖浏览器，不依赖操
 - 登录后访问[172.16.10.3](172.16.10.3)查询剩余流量  
 - 一个账号最多登录两个终端
 
-# Credits
-Author: Kyshel  
-License: MIT
+
+# License
+Made with ❤ by [kyshel](github.com/kyshel)  
+MIT License
