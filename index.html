@@ -51,12 +51,12 @@ function getParameterByName(name, url) {
 }
 
 
-var gistid=getParameterByName('page');
+var page=getParameterByName('page');
 var filename="README.md";
-if (gistid=="info") {
+if (page=="info") {
 	filename="info.md";
 }
-readTextFile("README.md");
+readTextFile(filename);
 
 </script>
 
