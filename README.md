@@ -1,10 +1,10 @@
 # [LoginQUST](https://github.com/kyshel/LoginQUST)
-多种姿势登录QUST-青岛科技大学校园网，不依赖浏览器，不依赖操作系统，有线、无线通用
+多种姿势登录QUST-青岛科技大学校园网，不依赖浏览器，无论Window、Unix操作系统，有线无线通用！
 >LoginQUST give you geek ways to login QUST(Qing Dao University of Science&Technology) campus net.
 
 ## Usage
 
-####Unix & Unix-Like system
+#### Unix & Unix-Like system
 
 0. `ifconfig` (确保已DHCP到ip，一般为10.x.x.x)  
 1.  `vim LoginQUST.sh`  
@@ -13,13 +13,13 @@
 4.  `./LoginQUST.sh`   
 
 
-####Windows
+#### Windows
 
 1.更改LoginQUST.c中的 用户名和密码  
 2.编译生成 LoginQUST.exe  (利用VS2015)  
 3.打开LoginQUST.exe ，自动登录  
 
-####Android
+#### Android
 1.下载安装 [apk](http://nic.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=967955788&wbfileid=253215)  
 2.打开app，输入用户名密码登录
 
@@ -29,6 +29,6 @@
 - [登录原理](http://kyshel.github.io/LoginQUST/index.html?page=info)
 
 
-## License
+## Credits
 Made with ❤ by [kyshel](http://github.com/kyshel)  
 MIT License
