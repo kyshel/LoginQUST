@@ -1,5 +1,5 @@
 # [LoginQUST](https://github.com/kyshel/LoginQUST)
-一键登录QUST-青岛科技大学校园网，不依赖浏览器，不限操作系统，有线无线通用！
+一键登录青岛科技大学校园网，不依赖浏览器，不限操作系统，有线无线通用！
 
 
 ## Usage
